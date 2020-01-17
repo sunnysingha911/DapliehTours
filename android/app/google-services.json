@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1047535156098",
+    "firebase_url": "https://dapliehdata.firebaseio.com",
+    "project_id": "dapliehdata",
+    "storage_bucket": "dapliehdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047535156098:android:f4618e91af8ada0edead9b",
+        "android_client_info": {
+          "package_name": "com.sunnyflutter.daplieh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047535156098-b5164e5nb31ib9acjbvqc0olndkfeluu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD31Jjk-kYbza6bzjAxChnCWRgztRd04ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047535156098-b5164e5nb31ib9acjbvqc0olndkfeluu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1047535156098-nbka7tq6jiqi18613rartrv437364jbq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.daplieh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
